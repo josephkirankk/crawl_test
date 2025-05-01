@@ -1,0 +1,7 @@
+azure_api_key: "957badf7e39643dca147a6b8d157f66d"
+azure_api_base: "https://pep-ee-pepgenxsbx-nonprod-eus2-openai.openai.azure.com"
+azure_api_version: "2025-01-01-preview"
+
+litellm_settings:
+  drop_params: true
+  ssl_verify: false 

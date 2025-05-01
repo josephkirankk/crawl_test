@@ -1,0 +1,11 @@
+model_list:
+  - model_name: gpt-4
+    litellm_params:
+      model: azure/gpt-4.1
+      api_key: os.environ/AZURE_API_KEY
+      api_base: os.environ/AZURE_API_BASE
+      api_version: os.environ/AZURE_API_VERSION
+
+general_settings:
+  master_key: "sk-1234"
+  ssl_verify: false  # Added to prevent potential SSL verification issues

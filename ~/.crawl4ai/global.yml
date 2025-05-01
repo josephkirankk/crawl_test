@@ -1,0 +1,5 @@
+DEFAULT_LLM_PROVIDER: azure/gpt-4.1
+DEFAULT_LLM_PROVIDER_TOKEN: 957badf7e39643dca147a6b8d157f66d
+AZURE_API_BASE: https://pep-ee-pepgenxsbx-nonprod-eus2-openai.openai.azure.com
+AZURE_API_VERSION: 2025-01-01-preview
+API_VERIFY_SSL: false 
