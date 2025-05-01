@@ -4,4 +4,6 @@ azure_api_version: "2025-01-01-preview"
 
 litellm_settings:
   drop_params: true
-  ssl_verify: false 
+  ssl_verify: false
+  # Add this setting to fix the 'audio' attribute error
+  patch_message_class: true
