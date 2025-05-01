@@ -1,536 +1,266 @@
 [
     {
-        "name": "Google Pixel 9a",
-        "price": "$499",
-        "product_url": "https://www.tomsguide.com/best-picks/best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Nothing Phone 3a",
-        "price": "$449.99",
-        "product_url": "https://www.tomsguide.com/best-picks/best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G 2025",
-        "price": "$140",
-        "product_url": "https://www.tomsguide.com/best-picks/best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A35 5G",
-        "price": "$399.99",
-        "product_url": "https://www.tomsguide.com/best-picks/best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G Power 2025",
-        "price": "$199.99",
-        "product_url": "https://www.tomsguide.com/best-picks/best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G Power 5G (2024)",
-        "price": null,
-        "product_url": "https://www.pcmag.com/picks/the-best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "OnePlus Nord N30 5G",
-        "price": null,
-        "product_url": "https://www.pcmag.com/picks/the-best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A16 5G",
-        "price": null,
-        "product_url": "https://www.pcmag.com/picks/the-best-cheap-phones",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A16 5G",
-        "price": null,
-        "product_url": "https://www.notebookcheck.net/Samsung-Galaxy-A16-5G-smartphone-review-The-particularly-inexpensive-Galaxy-with-6-years-of-updates.948868.0.html",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A16 5G",
-        "price": null,
-        "product_url": "https://www.techadvisor.com/article/2617925/samsung-galaxy-a16-review.html",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A16 5G",
-        "price": null,
-        "product_url": "https://www.pcmag.com/picks/the-best-5g-phones",
-        "error": false
-    },
-    {
-        "name": "Google Pixel 8a",
-        "price": null,
-        "product_url": "https://www.wired.com/story/best-google-pixel-phone/",
-        "error": false
-    },
-    {
-        "name": "Google Pixel 8a",
-        "price": null,
-        "product_url": "https://www.trustedreviews.com/best/best-mid-range-smartphones-3607758",
-        "error": false
-    },
-    {
-        "name": "Google Pixel 8a",
-        "price": "$499",
-        "product_url": "https://www.wired.com/review/google-pixel-8a/",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G 5G (2024)",
-        "price": null,
-        "product_url": "https://www.androidpolice.com/moto-g-5g-2024-best-features/",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G04s Xt2421-7 4g/lte Dual Sim",
-        "price": "$84.72",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "TCL 50 XE 5G",
-        "price": "$49.99",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Vortex HD65 6.5\" 64GB Smartphone",
-        "price": "$108.50",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "iLight Mini 16 Pro Max Smartphone",
-        "price": "$89.34",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "BLU View 4",
-        "price": "$29.88",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Revvl 6 T-Mobile 5G",
-        "price": "$79.14",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Sudroid Mini Smartphone",
-        "price": "$46.99",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Motorola moto g 5G - 2024",
-        "price": "$169.99",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G Go Smartphone",
-        "price": "$57.95",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A01 16gb",
-        "price": "$58.80",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
-        "error": false
-    },
-    {
-        "name": "Unlocked Phones, Blackview A53 Unlocked Cell Phone(2023 New), 7GB Ram+32gb ROM/1TB Expand Android Phone, Android 12 Smartphone, 5080mAh Battery 10W",
+        "name": "OLUMAT Smart Door Lock with Handle Keyless Entry with Gateway Lock Door",
         "price": "$59.99",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
+        "product_url": "https://www.amazon.com/dp/B0C6V6K9QK",
         "error": false
     },
     {
-        "name": "XGODY 13 Pro 6.6\" Android 4G LTE Phone",
-        "price": "$83.50",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
+        "name": "SMONET Fingerprint Electronic Deadbolt Door Lock",
+        "price": "$79.99",
+        "product_url": "https://www.amazon.com/dp/B08ZDZ7Q6B",
         "error": false
     },
     {
-        "name": "SOYES XS16 Mini 4G 3.0 inch Mobile Phone",
-        "price": "$65.99",
-        "product_url": "https://www.google.com/search?q=low+budget+smartphone&num=100&start=0&hl=en&gl=us&udm=28",
+        "name": "Ultraloq Bolt Fingerprint Matter Smart Lock",
+        "price": "$159.99",
+        "product_url": "https://www.u-tec.com/products/ultraloq-bolt-fingerprint-matter",
         "error": false
     },
     {
-        "name": "Samsung Galaxy A16 5G",
-        "price": "$199.00",
-        "product_url": "https://www.bestbuy.com/site/samsung-galaxy-a16-5g/6543210.p",
+        "name": "TP-Link Tapo DL110 Smart Wi-Fi Door Lock",
+        "price": "$119.99",
+        "product_url": "https://www.bestbuy.com/site/tp-link-tapo-dl110-smart-wi-fi-door-lock/6567852.p",
         "error": false
     },
     {
-        "name": "Google Pixel 8a",
-        "price": "$487.00",
-        "product_url": "https://www.amazon.com/dp/B0D1K6JQ7F",
-        "error": false
-    },
-    {
-        "name": "Motorola moto g 5G - 2024",
-        "price": "$99.88",
-        "product_url": "https://www.walmart.com/ip/Motorola-moto-g-5G-2024/123456789",
-        "error": false
-    },
-    {
-        "name": "GINDONGI Unlocked Android Phone Smartphone 2GB+16GB Cell Phone 5000mAh Battery for Extended Standby 6.7inch HD Screen Mobile Phone 4G Dual SIM",
-        "price": "$89.99",
-        "product_url": "https://www.amazon.com/dp/B0CXYZ1234",
-        "error": false
-    },
-    {
-        "name": "BLU G33 GSM Smartphone",
+        "name": "Keypad Smart Door Lock with Knob",
         "price": "$59.99",
-        "product_url": "https://www.bestbuy.com/site/blu-g33-gsm-smartphone/6549871.p",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
         "error": false
     },
     {
-        "name": "Motorola Moto G Stylus 2023",
-        "price": "$89.70",
-        "product_url": "https://www.walmart.com/ip/Motorola-Moto-G-Stylus-2023/987654321",
+        "name": "Yale Assure Lock 2 Smart Lock",
+        "price": "$259.99",
+        "product_url": "https://shopyalehome.com/products/yale-assure-lock-2",
         "error": false
     },
     {
-        "name": "OnePlus Nord N200 5G 64gb",
-        "price": "$89.99",
-        "product_url": "https://www.amazon.com/dp/B096B3C7T2",
-        "error": false
-    },
-    {
-        "name": "BLU G34 64GB",
-        "price": "$70.00",
-        "product_url": "https://www.backmarket.com/en-us/p/blu-g34-64gb/123456",
-        "error": false
-    },
-    {
-        "name": "Xiaomi Redmi 14C Smartphone",
-        "price": "$129.99",
-        "product_url": "https://www.walmart.com/ip/Xiaomi-Redmi-14C/1122334455",
-        "error": false
-    },
-    {
-        "name": "Mini 4G Smartphone Unlocked 3.0 Inch Dual Sim Quad Core Mini Phone Premium Child Phone Small Smartphone Student Pocket Cellphone",
-        "price": "$52.49",
-        "product_url": "https://www.amazon.com/dp/B0C1234567",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A15 5G",
-        "price": "$69.00",
-        "product_url": "https://www.walmart.com/ip/Samsung-Galaxy-A15-5G/9988776655",
-        "error": false
-    },
-    {
-        "name": "Boost Mobile Summit 5G, 64gb, Blue - Prepaid Smartphone",
-        "price": "$49.99",
-        "product_url": "https://www.bestbuy.com/site/boost-mobile-summit-5g-64gb-blue-prepaid-smartphone/12345678.p",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A54 5G",
-        "price": "$49.99",
-        "product_url": "https://www.cricketwireless.com/cell-phones/samsung-galaxy-a54-5g.html",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A15 5G 64 GB in Blue Black | Smartphone | Verizon",
-        "price": "$59.88",
-        "product_url": "https://www.walmart.com/ip/Samsung-Galaxy-A15-5G-64GB-Blue-Black/1123581321",
-        "error": false
-    },
-    {
-        "name": "Motorola moto g 5G - 2024",
-        "price": "$169.99",
-        "product_url": "https://www.motorola.com/us/smartphones-moto-g-5g-gen-2024/p",
-        "error": false
-    },
-    {
-        "name": "Revvl 6 T-Mobile 5G",
-        "price": "$66.83",
-        "product_url": "https://www.amazon.com/dp/B0C9Z8YJ8K",
-        "error": false
-    },
-    {
-        "name": "Moto G 5G Motorola",
-        "price": "$39.99",
-        "product_url": "https://www.bestbuy.com/site/motorola-moto-g-5g/6543211.p",
-        "error": false
-    },
-    {
-        "name": "MMY I16 ProMAX Unlocked Cell Phone 6.99\" HD Screen 8+256GB Android 13",
-        "price": "$179.99",
-        "product_url": "https://www.amazon.com/dp/B0D2I16PMX",
-        "error": false
-    },
-    {
-        "name": "Umidigi C1 32GB 3GB RAM Gsm Unlocked Phone Mediatek MT6739",
-        "price": "$59.99",
-        "product_url": "https://www.amazon.com/dp/B0CUMIDIGI1",
-        "error": false
-    },
-    {
-        "name": "VVJ I25 Ultra 5G Unlocked Phones Built in Pen 7000mAh Long Battery Life Smartphone",
-        "price": "$199.99",
-        "product_url": "https://www.amazon.com/dp/B0CVVJI25U",
-        "error": false
-    },
-    {
-        "name": "Nokia C32 Dual SIM 64GB",
-        "price": "$129.00",
-        "product_url": "https://www.amazon.com/dp/B0CNOKIAC32",
-        "error": false
-    },
-    {
-        "name": "VSQAOF I16 PROMAX Unlocked Phone,8+256GB Smartphone Android 13.0",
-        "price": "$179.99",
-        "product_url": "https://www.amazon.com/dp/B0CVSQAOF16",
-        "error": false
-    },
-    {
-        "name": "Oukitel C51 Unlocked Mobile Phones 18GB+128GB/1TB Cell Phone 5150mAh Battery",
-        "price": "$149.99",
-        "product_url": "https://www.amazon.com/dp/B0COUKITELC51",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G Play 2024",
-        "price": "$39.88",
-        "product_url": "https://www.walmart.com/ip/Motorola-Moto-G-Play-2024/123123123",
-        "error": false
-    },
-    {
-        "name": "FOXIONO Unlocked Smartphone,6.11inch Cell Phone Android Phones Smart Phones Dual SIM Card,Dual Cameras 1GB RAM 16GB ROM, Only Supports Dual SIM Card",
-        "price": "$59.66",
-        "product_url": "https://www.amazon.com/dp/B0CFOXIONO",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A15 5G",
-        "price": "$89.99",
-        "product_url": "https://www.cricketwireless.com/cell-phones/samsung-galaxy-a15-5g.html",
-        "error": false
-    },
-    {
-        "name": "Tracfone BLU View 5 Prepaid",
-        "price": "$29.88",
-        "product_url": "https://www.walmart.com/ip/Tracfone-BLU-View-5-Prepaid/123456",
-        "error": false
-    },
-    {
-        "name": "iLight Mini Smartphone 11 Pro",
-        "price": "$55.23",
-        "product_url": "https://www.amazon.com/dp/B0CILIGHT11",
-        "error": false
-    },
-    {
-        "name": "Boost Mobile Summit 5G Prepaid Smartphone",
-        "price": "$49.99",
-        "product_url": "https://www.bestbuy.com/site/boost-mobile-summit-5g-prepaid-smartphone/12345679.p",
-        "error": false
-    },
-    {
-        "name": "HMD Vibe",
-        "price": "$39.88",
-        "product_url": "https://www.walmart.com/ip/HMD-Vibe/1234567",
-        "error": false
-    },
-    {
-        "name": "Nothing Phone 3a 6.7",
-        "price": "$398.00",
-        "product_url": "https://www.amazon.com/dp/B0CN3A67",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G Power 2025",
+        "name": "Harfo Smart Door Lock",
         "price": "$99.99",
-        "product_url": "https://www.cricketwireless.com/cell-phones/motorola-moto-g-power-2025.html",
+        "product_url": "https://www.amazon.com/dp/B07QK6ZQ8B",
         "error": false
     },
     {
-        "name": "Unihertz Jelly Star Smallest 3.0 Inch Android 13 Smartphone Unlocked",
-        "price": "$219.99",
-        "product_url": "https://www.unihertz.com/products/jelly-star",
+        "name": "Wyze Lock Bolt",
+        "price": "$62.86",
+        "product_url": "https://www.homedepot.com/p/Wyze-Lock-Bolt-Fingerprint-Keypad-Deadbolt-WLCKB1/320282370",
         "error": false
     },
     {
-        "name": "OnePlus Nord N200 5G Smartphone",
-        "price": "$89.99",
-        "product_url": "https://www.amazon.com/dp/B096B3C7T2",
+        "name": "eufy E330 Video Smart Lock",
+        "price": "$272.99",
+        "product_url": "https://www.amazon.com/dp/B0C1J8QJ6V",
         "error": false
     },
     {
-        "name": "TCL K24",
-        "price": "$29.88",
-        "product_url": "https://www.walmart.com/ip/TCL-K24/123456",
-        "error": false
-    },
-    {
-        "name": "Google Pixel 9a 128GB",
-        "price": "$499.00",
-        "product_url": "https://store.google.com/us/product/pixel_9a",
-        "error": false
-    },
-    {
-        "name": "BLU G34 64GB Unlocked Smartphone",
-        "price": "$70.00",
-        "product_url": "https://www.backmarket.com/en-us/p/blu-g34-64gb/123457",
-        "error": false
-    },
-    {
-        "name": "Xiaomi Redmi A3",
-        "price": "$99.00",
-        "product_url": "https://www.amazon.com/dp/B0CXIAOMIA3",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy A16 5G",
-        "price": "$99.99",
-        "product_url": "https://www.bestbuy.com/site/samsung-galaxy-a16-5g/6543210.p",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto G Play 2023",
-        "price": "$49.88",
-        "product_url": "https://www.walmart.com/ip/Motorola-Moto-G-Play-2023/123456",
-        "error": false
-    },
-    {
-        "name": "GINDONGI Unlocked Android Phone Smartphone 2GB+16GB Cell Phone 5000mAh Battery for Extended Standby 6.7inch HD Screen Mobile Phone 4G Dual SIM",
-        "price": "$89.99",
-        "product_url": "https://www.amazon.com/dp/B0CXYZ1234",
-        "error": false
-    },
-    {
-        "name": "Samsung Galaxy S24 FE 5G",
-        "price": "$199.99",
-        "product_url": "https://www.cricketwireless.com/cell-phones/samsung-galaxy-s24-fe-5g.html",
-        "error": false
-    },
-    {
-        "name": "OnePlus Nord N30 5G",
-        "price": "$299.99",
-        "product_url": "https://www.oneplus.com/us/nord-n30-5g",
-        "error": false
-    },
-    {
-        "name": "PrzSay Unlocked Mobile Phones 6.3 inch HD Display Android10.0",
-        "price": "$59.99",
-        "product_url": "https://www.amazon.com/dp/B0CPRZSAY",
-        "error": false
-    },
-    {
-        "name": "Nokia C110",
-        "price": "$33.00",
-        "product_url": "https://www.walmart.com/ip/Nokia-C110/123456",
-        "error": false
-    },
-    {
-        "name": "Motorola Moto g power 2025",
-        "price": "$299.99",
-        "product_url": "https://www.bestbuy.com/site/motorola-moto-g-power-2025/123456",
-        "error": false
-    },
-    {
-        "name": "Cutwif Mini Smartphone",
-        "price": "$44.99",
-        "product_url": "https://www.amazon.com/dp/B0CCUTWIF",
-        "error": false
-    },
-    {
-        "name": "Unihertz Jelly 2 - Smallest 3.0 Inch Screen Smartphone | Unlocked, Dual Sim, Infrared, NFC, GPS, Fingerprint, Android, 128GB, Green",
+        "name": "Aqara Smart Lock U100",
         "price": "$189.99",
-        "product_url": "https://www.unihertz.com/products/jelly-2",
+        "product_url": "https://www.aqara.com/us/product/smart-lock-u100.html",
         "error": false
     },
     {
-        "name": "SOYES XS11 Smartphone",
-        "price": "$48.99",
-        "product_url": "https://www.walmart.com/ip/SOYES-XS11-Smartphone/123456",
+        "name": "Lockly Vision Elite Video Smart Lock",
+        "price": "$499.99",
+        "product_url": "https://lockly.com/products/vision-elite",
         "error": false
     },
     {
-        "name": "Motorola Moto G04s Xt2421-7 4g/lte Dual Sim",
-        "price": "$84.72",
-        "product_url": "https://www.amazon.com/dp/B0CMOTOG04S",
+        "name": "SwitchBot Home Automation System",
+        "price": "$93.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
         "error": false
     },
     {
-        "name": "TCL 50 XE 5G",
-        "price": "$49.99",
-        "product_url": "https://www.bestbuy.com/site/tcl-50-xe-5g/123456",
+        "name": "Tuya BT Fingerprint Lock",
+        "price": "$87.33",
+        "product_url": "https://www.walmart.com/ip/Tuya-BT-Fingerprint-Lock/100500591",
         "error": false
     },
     {
-        "name": "Vortex HD65 6.5\" 64GB Smartphone",
-        "price": "$108.50",
-        "product_url": "https://www.ebay.com/itm/1234567890",
+        "name": "Camelot Connect Smart Door Lock with Alarm (2-Pack)",
+        "price": "$359.00",
+        "product_url": "https://www.homedepot.com/p/Schlage-Camelot-Connect-Smart-Lock-with-Alarm-2-Pack-BE469ZPCAM716/313123456",
         "error": false
     },
     {
-        "name": "iLight Mini 16 Pro Max Smartphone",
-        "price": "$89.34",
-        "product_url": "https://www.amazon.com/dp/B0CILIGHT16",
+        "name": "dermum Smart Lock Keyless Entry Door Lock Smart Door Lock",
+        "price": "$59.49",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
         "error": false
     },
     {
-        "name": "BLU View 4",
-        "price": "$29.88",
-        "product_url": "https://www.walmart.com/ip/BLU-View-4/123456",
+        "name": "VEVOR Smart Lock 5-in-1 Smart Door Knob",
+        "price": "$53.99",
+        "product_url": "https://www.vevor.com/smart-lock-c_12041/vevor-smart-lock-5-in-1-smart-door-knob-p_010101",
         "error": false
     },
     {
-        "name": "Revvl 6 T-Mobile 5G",
-        "price": "$79.14",
-        "product_url": "https://www.reebelo.com/us/refurbished-phones/revvl-6-t-mobile-5g",
+        "name": "Nest x Yale Lock",
+        "price": "$279.99",
+        "product_url": "https://www.bestbuy.com/site/nest-x-yale-lock/6202100.p",
         "error": false
     },
     {
-        "name": "Sudroid Mini Smartphone",
-        "price": "$46.99",
-        "product_url": "https://www.amazon.com/dp/B0CSUDROID",
+        "name": "Eufy Smart Lock C30",
+        "price": "$66.49",
+        "product_url": "https://www.amazon.com/dp/B0C1J8QJ6V",
         "error": false
     },
     {
-        "name": "Motorola moto g 5G - 2024",
+        "name": "ULTRALOQ U-Bolt Pro Smart Lock",
+        "price": "$152.99",
+        "product_url": "https://www.u-tec.com/products/ultraloq-u-bolt-pro",
+        "error": false
+    },
+    {
+        "name": "Lockly Model-S Single-Cylinder Smart Deadbolt Lock",
         "price": "$169.99",
-        "product_url": "https://www.bestbuy.com/site/motorola-moto-g-5g-2024/123456",
+        "product_url": "https://www.homedepot.com/p/Lockly-Model-S-Single-Cylinder-Smart-Deadbolt-Lock-PGDS2SN/313123457",
         "error": false
     },
     {
-        "name": "Motorola Moto G Go Smartphone",
-        "price": "$57.95",
-        "product_url": "https://www.walmart.com/ip/Motorola-Moto-G-Go-Smartphone/123456",
+        "name": "Smart Locks WiFi Deadbolt",
+        "price": "$107.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
         "error": false
     },
     {
-        "name": "Samsung Galaxy A01 16gb",
-        "price": "$58.80",
-        "product_url": "https://www.amazon.com/dp/B0CSAMSUNGA01",
+        "name": "August Smart Lock",
+        "price": "$172.74",
+        "product_url": "https://www.walmart.com/ip/August-Smart-Lock/100500592",
         "error": false
     },
     {
-        "name": "Unlocked Phones, Blackview A53 Unlocked Cell Phone(2023 New), 7GB Ram+32gb ROM/1TB Expand Android Phone, Android 12 Smartphone, 5080mAh Battery 10W",
+        "name": "Eufy Smart Lock C33",
+        "price": "$169.99",
+        "product_url": "https://www.amazon.com/dp/B0C1J8QJ6V",
+        "error": false
+    },
+    {
+        "name": "Halo Touchscreen Electronic Smart Lock Deadbolt",
+        "price": "$159.00",
+        "product_url": "https://www.homedepot.com/p/Kwikset-Halo-Touchscreen-Electronic-Smart-Lock-Deadbolt-99390-002/313123458",
+        "error": false
+    },
+    {
+        "name": "Smart Door Lock with Knob",
+        "price": "$79.99",
+        "product_url": "https://www.geonfino.com/products/smart-door-lock-with-knob",
+        "error": false
+    },
+    {
+        "name": "MSR X6 Smart Door Lock",
+        "price": "$69.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
+        "error": false
+    },
+    {
+        "name": "Ttlock Electronic Smart Door Lock",
+        "price": "$302.37",
+        "product_url": "https://www.walmart.com/ip/Ttlock-Electronic-Smart-Door-Lock/100500593",
+        "error": false
+    },
+    {
+        "name": "Aqara Smart Door Lock U300",
+        "price": "$206.99",
+        "product_url": "https://www.amazon.com/dp/B0C1J8QJ6V",
+        "error": false
+    },
+    {
+        "name": "Smart Door Lock",
+        "price": "$549.90",
+        "product_url": "https://theconnectedshop.com/products/smart-door-lock",
+        "error": false
+    },
+    {
+        "name": "Yale Assure Lock 2 Keypad with Wi-Fi",
+        "price": "$203.99",
+        "product_url": "https://www.bestbuy.com/site/yale-assure-lock-2-keypad-with-wi-fi/6512345.p",
+        "error": false
+    },
+    {
+        "name": "Yamiry Keypad Smart Door Lock with Knob",
+        "price": "$79.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
+        "error": false
+    },
+    {
+        "name": "Lockly Secure Plus Bluetooth Smart Door Lock Keyless Entry",
+        "price": "$219.99",
+        "product_url": "https://www.homedepot.com/p/Lockly-Secure-Plus-Bluetooth-Smart-Door-Lock-Keyless-Entry-PGDS2SN/313123459",
+        "error": false
+    },
+    {
+        "name": "Veise Smart Lock",
+        "price": "$139.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
+        "error": false
+    },
+    {
+        "name": "Electronic Smart Door Lock",
+        "price": "$241.65",
+        "product_url": "https://www.walmart.com/ip/Electronic-Smart-Door-Lock/100500594",
+        "error": false
+    },
+    {
+        "name": "Smart Biometric Door Lock iSM08",
+        "price": "$216.95",
+        "product_url": "https://ispektrum.ca/products/smart-biometric-door-lock-ism08",
+        "error": false
+    },
+    {
+        "name": "SwitchBot Smart Lock Pro Keyless Entry Door Lock Smart Door Lock Front Door",
+        "price": "$83.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
+        "error": false
+    },
+    {
+        "name": "Level Bolt Connect WiFi & Bluetooth Retrofit Smart Lock",
+        "price": "$249.00",
+        "product_url": "https://www.bestbuy.com/site/level-bolt-connect-wifi-bluetooth-retrofit-smart-lock/6512346.p",
+        "error": false
+    },
+    {
+        "name": "Halo Electronic Smart Lock Deadbolt",
+        "price": "$231.04",
+        "product_url": "https://www.homedepot.com/p/Kwikset-Halo-Electronic-Smart-Lock-Deadbolt-99390-001/313123460",
+        "error": false
+    },
+    {
+        "name": "Smart Door Lock with Handle and Keypad Dermum Keyless Entry Door Lock",
+        "price": "$129.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
+        "error": false
+    },
+    {
+        "name": "TEEHO TE001 Keypad Deadbolt",
+        "price": "$28.95",
+        "product_url": "https://doorcorner.com/products/teeho-te001-keypad-deadbolt",
+        "error": false
+    },
+    {
+        "name": "HEANTLE Smart Door Lock",
         "price": "$59.99",
-        "product_url": "https://www.ebay.com/itm/1234567891",
+        "product_url": "https://www.walmart.com/ip/HEANTLE-Smart-Door-Lock/100500595",
         "error": false
     },
     {
-        "name": "XGODY 13 Pro 6.6\" Android 4G LTE Phone",
-        "price": "$83.50",
-        "product_url": "https://www.xgody.com/products/13-pro",
+        "name": "U-Bolt Pro 6-in-1 Keyless Entry Door Lock",
+        "price": "$149.99",
+        "product_url": "https://www.amazon.com/dp/B0B7QJ6Q7K",
+        "error": false
+    },
+    {
+        "name": "Yale Approach Lock",
+        "price": "$229.99",
+        "product_url": "https://shopyalehome.com/products/yale-approach-lock",
+        "error": false
+    },
+    {
+        "name": "August Home Smart Lock",
+        "price": "$199.99",
+        "product_url": "https://august.com/products/august-wifi-smart-lock",
         "error": false
     }
 ]

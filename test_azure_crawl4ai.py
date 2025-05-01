@@ -33,7 +33,8 @@ async def main():
         schema=Product.model_json_schema(),  # Use our Product schema for extraction (using model_json_schema instead of schema)
         extraction_type="schema",  # Extract data according to the schema
         instruction="""
-        Extract product information from the Google Shopping results page.
+        Extract product information from the Google Shopping results page. Ensure you extract the url of the product page accuratly if available.
+
         For each product, extract:
         1. The product name
         2. The price (including currency symbol)
@@ -64,7 +65,7 @@ async def main():
     async with AsyncWebCrawler() as crawler:
         print("Starting Google Shopping page fetch with LLMExtractionStrategy...")
         # Use build_shopping_url to get a properly formatted Google Shopping URL
-        shopping_url = build_shopping_url(query="low budget smartphone")
+        shopping_url = build_shopping_url(query="smart door lock under 10000 rupees")
         print(f"Using shopping URL: {shopping_url}")
 
         try:
